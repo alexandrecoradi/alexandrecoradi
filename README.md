@@ -1,4 +1,5 @@
-### Hi there 👋
+## Olá, me chamo Alexandre Coradi ! 
+### Bem vindo ao meu perfil GitHub 👋
 
 
 Algumas informações:
